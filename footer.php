@@ -1,0 +1,1 @@
+<script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="<?php echo $id; ?>" async defer></script>
